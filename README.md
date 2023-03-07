@@ -9,8 +9,8 @@ To use GUI(Graphic User Interface) install the tkinter package in cmd promnt by 
   
  # pip install tkinter.messagebox
   
-  After installing packages download word.txt file and save it in same file 
- # word.txt
+  After installing packages download Words_datalist.txt file and save it in same file 
+ # Words_datalist.txt
  
  Next copy the source code and execute the program.
  
